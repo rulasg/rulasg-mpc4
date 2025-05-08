@@ -18,8 +18,10 @@ This repository contains the MCP4 demo project. It demonstrates the use of Model
 
 ## Authors
 
-- [rulasg](https://github.com/rulasg) ![rulasg avatar](https://avatars.githubusercontent.com/u/6884408?v=4)
-- [alucenom](https://github.com/alucenom) ![alucenom avatar](https://avatars.githubusercontent.com/u/102738334?v=4)
+| Avatar | Name | GitHub | Professional Info |
+|--------|------|--------|-------------------|
+| <img src="https://avatars.githubusercontent.com/u/6884408?v=4" width="48" height="48" /> | Raúl (Dibildos) González | [rulasg](https://github.com/rulasg) | Company: GitHub<br>Location: Madrid, Spain<br>Bio: A father, an optimist, an idealist, an engineer, a bit of a philosopher, a strategist, passionate about understanding and learning from everyone.<br>Blog: [rulasg.github.io](https://rulasg.github.io) |
+| <img src="https://avatars.githubusercontent.com/u/102738334?v=4" width="48" height="48" /> | alucenom | [alucenom](https://github.com/alucenom) | Información profesional no disponible |
 
 ## License
 This project is for demonstration purposes.
