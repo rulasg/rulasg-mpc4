@@ -16,5 +16,10 @@ This repository contains the MCP4 demo project. It demonstrates the use of Model
 - .NET 9.0 SDK
 - Docker (for MCP server)
 
+## Authors
+
+- [rulasg](https://github.com/rulasg) ![rulasg avatar](https://avatars.githubusercontent.com/u/6884408?v=4)
+- [alucenom](https://github.com/alucenom) ![alucenom avatar](https://avatars.githubusercontent.com/u/102738334?v=4)
+
 ## License
 This project is for demonstration purposes.
